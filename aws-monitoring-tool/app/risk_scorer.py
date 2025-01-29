@@ -8,7 +8,7 @@ class RiskScorer:
         }
 
     def calculate_risk_score(self, misconfigurations):
-        """Calculate overall risk score."""
+       
         total_score = 0
         for misconfig in misconfigurations:
             total_score += self.severity_weights.get(misconfig['Severity'], 0)
