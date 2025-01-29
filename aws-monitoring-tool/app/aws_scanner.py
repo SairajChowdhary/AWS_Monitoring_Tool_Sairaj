@@ -8,7 +8,7 @@ class AWSScanner:
         self.rds = boto3.client('rds')
 
     def scan_ec2_instances(self):
-        """Scan EC2 instances for misconfigurations."""
+        
         instances = self.ec2.describe_instances()
         misconfigurations = []
         for reservation in instances['Reservations']:
@@ -23,7 +23,7 @@ class AWSScanner:
         return misconfigurations
 
     def scan_s3_buckets(self):
-        """Scan S3 buckets for public access."""
+        
         buckets = self.s3.list_buckets()
         misconfigurations = []
         for bucket in buckets['Buckets']:
@@ -38,7 +38,7 @@ class AWSScanner:
         return misconfigurations
 
     def scan_iam_policies(self):
-        """Scan IAM policies for overly permissive permissions."""
+       
         policies = self.iam.list_policies(Scope='Local')
         misconfigurations = []
         for policy in policies['Policies']:
@@ -56,7 +56,7 @@ class AWSScanner:
         return misconfigurations
 
     def scan_rds_instances(self):
-        """Scan RDS instances for public accessibility."""
+        
         instances = self.rds.describe_db_instances()
         misconfigurations = []
         for instance in instances['DBInstances']:
