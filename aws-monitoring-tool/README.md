@@ -1,3 +1,5 @@
+Follow this step before proceeding: pip install boto3 flask pandas matplotlib pytest
+
 Access the endpoints:
 
 GET /scan
