@@ -1,0 +1,6 @@
+# AWS configuration scanner
+# Risk scoring algorithm
+# Remediation recommendations
+# RESTful API
+# Frontend dashboard (React/Vue.js)
+# Unit tests
