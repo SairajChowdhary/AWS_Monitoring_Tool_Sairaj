@@ -1,6 +1,6 @@
 class Remediation:
     def get_recommendations(self, misconfigurations):
-        """Generate remediation steps."""
+        
         recommendations = []
         for misconfig in misconfigurations:
             if misconfig['Issue'] == 'Public IP assigned':
