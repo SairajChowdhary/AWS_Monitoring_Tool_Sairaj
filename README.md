@@ -11,13 +11,13 @@ This project uses **boto3, Flask, pandas, and matplotlib** to provide API-based 
 
 ## 🚀 Features
 
-* **EC2 Scan** → Detects instances with potential misconfigurations (e.g., open ports).
-* **S3 Scan** → Flags publicly accessible S3 buckets.
-* **IAM Policy Scan** → Identifies overly permissive IAM policies (e.g., `*` in `Action` or `Resource`).
-* **RDS Scan** → Finds publicly accessible RDS instances.
-* **Risk Scoring** → Assigns an overall risk score to your AWS environment.
-* **Remediation Guidance** → Provides suggestions to fix detected issues.
-* **REST API** → Simple endpoints to trigger scans and view results.
+* **EC2 Scan** → <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Detects+instances+with+potential+misconfigurations+(e.g:+ open+ports)" alt="Animated Typing SVG" />.
+* **S3 Scan** → <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Flags+publicly+accessible+S3+buckets." alt="Animated Typing SVG" />.
+* **IAM Policy Scan** → <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Identifies+overly+permissive+IAM+policies+(e.g.,+ `*` +in +`Action`+ or +`Resource`+)" alt="Animated Typing SVG" />.
+* **RDS Scan** →  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Finds+publicly+accessible+RDS+instances." alt="Animated Typing SVG" />.
+* **Risk Scoring** →  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Assigns+an+overall+risk+score+to+your+AWS+environment." alt="Animated Typing SVG" />.
+* **Remediation Guidance** → <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Provides+suggestions+to+fix+detected+issues." alt="Animated Typing SVG" />.
+* **REST API** → <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1300&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Simple+endpoints+to+trigger+scans+and+view+results." alt="Animated Typing SVG" />.
 
 ---
 
