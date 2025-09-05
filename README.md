@@ -3,7 +3,9 @@
 An **MVP (Minimum Viable Product)** tool for monitoring AWS resources to detect **misconfigurations, security risks, and compliance issues**.
 This project uses **boto3, Flask, pandas, and matplotlib** to provide API-based scanning and reporting.
 
-By **Sairaj Raman Kumar Chowdhary**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=By+Sairaj+Chowdhary;" alt="Animated Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C0C0C0&background=00FF00&center=true&vCenter=true&width=600&lines=One+of+the+most+common+causes+of+data+breaches+in+cloud+environments+is+publicly+accessible+S3+buckets;But+With+this+tool;A+company’s+security+team+can+scan+and+immediately+see+if+any+S3+buckets+are+publicly+exposed." alt="Animated Typing SVG" />
 
 ---
 
